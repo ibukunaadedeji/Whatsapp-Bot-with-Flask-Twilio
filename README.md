@@ -1,2 +1,2 @@
 # Twitter-Bot-with-Tweepy
-This is a script that run through building a tweetbot for auto communication
+This is a script that runs through building tweetbots and a whatsapp bot for auto communication
